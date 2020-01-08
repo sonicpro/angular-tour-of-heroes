@@ -47,6 +47,14 @@ h4 {
 .grid-pad > [class*='col-']:last-of-type {
   padding-right: 20px;
 }
+h2, h3 {
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
 @media (max-width: 600px) {
   .module {
     font-size: 10px;
